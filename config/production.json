@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://developerleadsFTD:developerleadsFTD@leadftdapi.6azoq.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
